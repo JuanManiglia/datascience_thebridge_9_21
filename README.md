@@ -23,10 +23,6 @@
 
 ---------
 
-**Lead Instructor**: *Miguel Ángel Nievas Fuertes*
-
-- miguel.nievas@thebridgeschool.es
-
 **Teacher Assistant**: *Cristina Martínez García*
 
 - cristina.martinez@thebridgeschool.es
@@ -34,3 +30,7 @@
 **Teacher Assistant**: *Leonardo Sánchez Soler*
 
 - leonardo@thebridgeschool.es
+
+**Lead Instructor**: *Miguel Ángel Nievas Fuertes*
+
+- miguel.nievas@thebridgeschool.es
